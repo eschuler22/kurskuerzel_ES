@@ -7,7 +7,7 @@ Repository for COURSE_TITLE (Web App Dev or Gen AI in SD or Front-End Dev)
 
 Ella Schule, Matrikel: 333333
 
-## Project Descrption
+## Project Description
 
 tbd
 
