@@ -5,7 +5,7 @@ Repository for COURSE_TITLE (Web App Dev or Gen AI in SD or Front-End Dev)
 
 ## Owner
 
-Ella Schule, Matrikel: 333333
+Ella Student-Muster, Matrikel: 333333
 
 ## Project Description
 
